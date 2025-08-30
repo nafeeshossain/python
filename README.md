@@ -1,5 +1,5 @@
-# python
+# Python
 ## All my pyhton codes
 <br>
-## Author - Nafees Hossain
+# Author - Nafees Hossain
 
